@@ -9,8 +9,8 @@
 
 ## Noua functionalitate
 
-- Imprumuta si returneaza carti pe baza numelui persoanei ce imprumuta
 - Adaugare persoanelor ce vor sa imprumute carti
+- Imprumuta si returneaza carti pe baza numelui persoanei ce imprumuta
 - Vizualizarea istoricului cartilor imprumutate de cate o persoana
 
 ## Tehnologii
@@ -18,7 +18,7 @@
 - .NET (WinForms)
 - C#
 - Data Persistence - Relational Database - SQLite
-- Arhitectura pe layere (Domain, Service, UI)
+- Arhitectura pe layere (Domain, Repo, Service, UI)
 
 ## Utilizare
 
@@ -38,7 +38,6 @@
    </configuration>
 
    <!-- Nu functioneaza decat cu Absolute Path  -->
-
    ```
 
 4. Build si Run
