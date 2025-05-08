@@ -3,15 +3,21 @@
 ## Functionalitati
 
 - Adauga, sterge si filtreaza carti in functie de titlu si autor
+- Imprumuta si returneaza carti
+- Actualizare automata a datelor cu Observer pattern
+- Validarea input-urilor si a posibilitatii de imprumutare si returnare
+
+## Noua functionalitate
+
 - Imprumuta si returneaza carti pe baza numelui persoanei ce imprumuta
 - Adaugare persoanelor ce vor sa imprumute carti
 - Vizualizarea istoricului cartilor imprumutate de cate o persoana
-- Actualizare automata a datelor cu Observer pattern
 
 ## Tehnologii
 
 - .NET (WinForms)
 - C#
+- Data Persistence - Relational Database - SQLite
 - Arhitectura pe layere (Domain, Service, UI)
 
 ## Utilizare
